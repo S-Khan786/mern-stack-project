@@ -44,8 +44,6 @@
     </ol>
     <h2>Contributing</h2>
     <p>If you would like to contribute to this project, please open a pull request.</p>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
   </body>
 </html>
 
